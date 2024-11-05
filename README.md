@@ -7,7 +7,7 @@ This project is a simple yet powerful **Password Generator** built in React insp
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Hooks and Concepts](#hooks-and-concepts)
-- [Usage](#usage)
+
 
 ## Features
 
